@@ -15,15 +15,15 @@ Users of this app will be able to enjoy artwork easily by browsing various secti
 
 1. Users navigate between screens based on which kind of art they are consuming
 
-------------Roadmap Features (Not Yet Implemented)
-
-1. Users will be able to add their own art via uploading through their phot gallery or music folder on their mobile device
-2. Users should be able to use an integrated music player to listen to the music presented in the app
-
 Screens presented:
 1. Home
 2. Music
 3. Graphics
+
+------------Roadmap Features (Not Yet Implemented)
+
+1. Users will be able to add their own art via uploading through their phot gallery or music folder on their mobile device
+2. Users should be able to use an integrated music player to listen to the music presented in the app
 
 ------------Screenshots
 
